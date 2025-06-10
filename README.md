@@ -12,3 +12,5 @@ The new version has much better filtering of illegal content and it includes a "
 The search ability outperforms many other Deepweb search engines, it is still a work in progress but the improvements from the original version are huge.
 
 I will be adding more functionality soon!
+
+documentation can be found here: [usenetsafe](https://usenetsafe.org)
